@@ -5,7 +5,7 @@ AllCops:
   TargetRubyVersion: 2.4.1
 
 Metrics/AbcSize:
-  Enabled: false
+  Enabled: true
 
 Style/FrozenStringLiteralComment:
-  Enabled: false
+  Enabled: true
